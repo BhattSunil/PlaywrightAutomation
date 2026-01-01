@@ -29,20 +29,7 @@ The project focuses on **UI automation**, **test structure**, **locators**, and 
 - Build a strong automation testing foundation
 - Prepare for QA / SDET / Automation Engineer roles
 
----
 
-## 📁 Project Structure
-
-PlaywrightAutomation/
-│
-├── tests/ # Test cases
-│ ├── login.spec.js
-│ ├── homepage.spec.js
-│
-├── playwright.config.ts # Playwright configuration
-├── package.json # Project dependencies
-├── .gitignore # Ignored files
-└── README.md # Project documentation
 
 
 
